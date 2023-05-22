@@ -67,7 +67,6 @@
     "@sveltejs/adapter-auto": "^2.0.1",
     "@sveltejs/adapter-node": "1.2.4",
     "@sveltejs/kit": "^1.16.3",
-    "color-palette": "link:@material/theme/color-palette",
     "eslint": "^8.40.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-svelte3": "^4.0.0",
@@ -83,6 +82,7 @@
   "dependencies": {
     "@fontsource/fira-mono": "^4.5.10",
     "@sveltejs/adapter-static": "^2.0.2",
+    "color-palette": "^1.0.3",
     "svelte-material-ui": "7.0.0-beta.8"
   }
 }
